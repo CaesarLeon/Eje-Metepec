@@ -1,0 +1,17 @@
+.titulo {
+		font-size: 300px;
+		text-align: center;
+		color: purple;
+		font-family: "Pixel-Regular";
+
+	}
+
+.background-image {
+		background-image: url('img/mapa.jpg');
+		background-size: contain;
+		background-repeat: no-repeat;
+		width: 200px;
+		height: 100vh;
+
+	}
+
